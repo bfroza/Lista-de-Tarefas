@@ -67,6 +67,7 @@ Apache 2.0 - Veja LICENSE para mais detalhes.
 
 ###### Task
 ```json
+TaskInput
 
 {
   "id": 1,
@@ -76,7 +77,7 @@ Apache 2.0 - Veja LICENSE para mais detalhes.
   "finalizada": false
 }
 
--TaskInput
+TaskUpdate
 
 {
   "descricao": "testee",
@@ -84,7 +85,8 @@ Apache 2.0 - Veja LICENSE para mais detalhes.
   "limite": "2024-05-30",
   "finalizada": false
 }
--TaskUpdate
+
+Error
 
 {
   "descricao": "Fazer relatório diario",
@@ -92,7 +94,7 @@ Apache 2.0 - Veja LICENSE para mais detalhes.
   "limite": "2024-05-30",
   "finalizada": true
 }
-Error
+
 
 {
   "message": "Descrição do erro"
