@@ -107,7 +107,7 @@ Para rodar este projeto em sua máquina local, siga estas etapas:
 1. **Clone o repositório:** Abra o terminal e execute o seguinte comando:
 
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/bfroza/Lista-de-Tarefas.git)}
+   git clone https://github.com/bfroza/Lista-de-Tarefas.git
 
 2. ** Instale o Java e o JDK na versão 22:
 - Instale o IntelliJ IDEA.
