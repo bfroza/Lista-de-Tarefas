@@ -99,7 +99,7 @@ Error
 {
   "message": "Descrição do erro"
 }
-
+```
 ### Como Rodar o Código
 
 Para rodar este projeto em sua máquina local, siga estas etapas:
