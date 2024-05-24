@@ -123,8 +123,8 @@ Para rodar este projeto em sua máquina local, siga estas etapas:
 
 5. **Visualização:
 
-#####Clique no arquivo HTML para ter uma interface de visualização.
-#####Ou instale o Postman e realize as requisições por URL:
+##### Clique no arquivo HTML para ter uma interface de visualização.
+##### Ou instale o Postman e realize as requisições por URL:
 - Para GET all: localhost:8080/tasks
 - Para GET por ID: localhost:8080/tasks/1
 - Para POST: localhost:8080/tasks/post
