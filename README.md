@@ -99,3 +99,34 @@ Error
 {
   "message": "Descrição do erro"
 }
+
+### Como Rodar o Código
+
+Para rodar este projeto em sua máquina local, siga estas etapas:
+
+1. **Clone o repositório:** Abra o terminal e execute o seguinte comando:
+
+   ```bash
+   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/bfroza/Lista-de-Tarefas.git)}
+
+2. ** Instale o Java e o JDK na versão 22:
+- Instale o IntelliJ IDEA.
+- Baixe o Spring Boot 3.2.5.
+
+3. ** Adicione as dependências:
+- Spring Web
+- Spring Data JPA
+- H2Database
+
+4. ** RUN:
+- Entre no IntelliJ IDEA e execute a classe TarefaApplication.
+
+5. **Visualização:
+
+#####Clique no arquivo HTML para ter uma interface de visualização.
+#####Ou instale o Postman e realize as requisições por URL:
+- Para GET all: localhost:8080/tasks
+- Para GET por ID: localhost:8080/tasks/1
+- Para POST: localhost:8080/tasks/post
+- Para DELETE: localhost:8080/tasks/5
+- Para UPDATE: localhost:8080/tasks/5
